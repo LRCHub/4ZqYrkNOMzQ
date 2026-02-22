@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Sanity",
+  "base_artist": "Louis Tomlinson",
+  "createdAt": "2026-02-22T19:05:57.346423Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Forgotten Sanity",
+      "artist": "CURVE",
+      "has_synced": false,
+      "path": "select/01_Forgotten_Sanity_CURVE.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Sanity Assassin",
+      "artist": "Bauhaus",
+      "has_synced": true,
+      "path": "select/02_The_Sanity_Assassin_Bauhaus.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Sanity Assassin",
+      "artist": "Bauhaus",
+      "has_synced": true,
+      "path": "select/03_The_Sanity_Assassin_Bauhaus.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Shreds Of Sanity",
+      "artist": "Bolt Thrower",
+      "has_synced": true,
+      "path": "select/04_The_Shreds_Of_Sanity_Bolt_Thrower.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sweet Sanity",
+      "artist": "Hurrah!",
+      "has_synced": true,
+      "path": "select/05_Sweet_Sanity_Hurrah!.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dark Sanity",
+      "artist": "Mortician",
+      "has_synced": false,
+      "path": "select/06_Dark_Sanity_Mortician.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mask Of Sanity",
+      "artist": "Children of Bodom",
+      "has_synced": true,
+      "path": "select/07_Mask_Of_Sanity_Children_of_Bodom.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mask Of Sanity",
+      "artist": "Children Of Bodom",
+      "has_synced": false,
+      "path": "select/08_Mask_Of_Sanity_Children_Of_Bodom.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sleep In Sanity",
+      "artist": "Anathema",
+      "has_synced": true,
+      "path": "select/09_Sleep_In_Sanity_Anathema.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Farewell to Sanity",
+      "artist": "Trail Of Tears",
+      "has_synced": false,
+      "path": "select/10_Farewell_to_Sanity_Trail_Of_Tears.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sanity",
+      "artist": "Mortal Love",
+      "has_synced": true,
+      "path": "select/11_Sanity_Mortal_Love.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sense Without Sanity - The Impervious Code",
+      "artist": "Epica",
+      "has_synced": false,
+      "path": "select/12_Sense_Without_Sanity_-_The_Impervious_Code_Epica.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sanity",
+      "artist": "Louis Tomlinson",
+      "has_synced": false,
+      "path": "select/pl_01_Sanity_Louis_Tomlinson.txt"
+    }
+  ]
+}
